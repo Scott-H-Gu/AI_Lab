@@ -1,0 +1,35 @@
+There are some interesting toolkits of AI and ML, including:
+AI
+--ML
+----Supervised Learning
+------Neural networks
+--------DNN
+--------CNN
+--------LSTM
+
+------Logistic regression
+------SVM
+
+----Semi-supervised Learning
+------Self-training method
+
+----Unsuperviswed Learning
+------K-means
+------PCA
+
+----Graphical model
+------Bayes net
+------Hidden markov model
+
+--Search based methods
+----A-star search
+
+--Significance test
+
+--Information retrieval
+----Learning to rank
+----Collebrative Filtering
+
+Enjoy it!
+
+Hao (Scott) Gu
